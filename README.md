@@ -15,3 +15,6 @@ STEPS
 
 4. Finally run on Google collab or Jupyter Notebook
 
+**CHECK CREDIT_CARD FRAUD file for codes**
+Reference: https://www.geeksforgeeks.org/ml-credit-card-fraud-detection/  
+
